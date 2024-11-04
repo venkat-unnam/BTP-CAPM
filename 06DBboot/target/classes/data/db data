@@ -1,0 +1,46 @@
+[
+    {
+        "code": "8cacb3e5-dafc-468c-9325-8a4172e2754b",
+        "companyName": "Test",
+        "contactPerson": "Test Contact",
+        "firstName": "first test",
+        "lastName": "last tets",
+        "website": "www.test.com",
+        "email": "test@outlook.com",
+        "status": 1,
+        "regDate": "2024-08-13"
+    },
+    {
+        "code": "26e26737-081e-4c9e-9c93-de6f55b5ad6b",
+        "companyName": "My Company",
+        "contactPerson": "Test Contact",
+        "firstName": "first my",
+        "lastName": "last my",
+        "website": "www.mycompany.com",
+        "email": "mycompany@outlook.com",
+        "status": 0,
+        "regDate": "2024-08-14"
+    },
+    {
+        "code": "089ded58-7426-4d6f-9fdc-9c3d7b40c5a6",
+        "companyName": "Test",
+        "contactPerson": "Test Contact",
+        "firstName": "first test",
+        "lastName": "last tets",
+        "website": "www.test.com",
+        "email": "test@gmail.com",
+        "status": 1,
+        "regDate": "2024-08-13"
+    },
+    {
+        "code": "ea5744d1-d95b-4270-951a-6103028add40",
+        "companyName": "Test Company",
+        "contactPerson": "Test Contact",
+        "firstName": "first test",
+        "lastName": "last tets",
+        "website": "www.test.com",
+        "email": "test@gmail.com",
+        "status": 1,
+        "regDate": "2024-08-13"
+    }
+]
